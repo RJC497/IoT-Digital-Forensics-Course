@@ -1,0 +1,3 @@
+Disclaimer Iot Digital Forensics Courseware
+
+Disclaimer: The author of this Internet of Things (IoT) Digital Forensics Courseware and the webpages used to post it, is not responsible or liable for the content of any external web pages that may be linked from the webpages used to post the course, nor for any external web pages linking to the webpages used to post the course, nor for anything else related to the Courseware, its labs, its data and the tools used in the course.  The author gives no guarantees or warranties related to the Courseware or tools listed in the Courseware.

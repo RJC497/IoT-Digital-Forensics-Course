@@ -5,6 +5,7 @@ The goals are to provide an overview and some hands-on analysis of common IoT di
 
 I dedicate this course to all Law Enforcement Personnel everywhere (and their civilian counterparts) – past, present and yet to come.  
 I admire, respect and appreciate the dedication of Law Enforcment Personnel and hope that this course can be of value to them.  
+
 I am honored to be a part of the cybersecurity and digital forensic community and this is my humble attempt to also add value to 
 that community.
 

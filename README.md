@@ -1,4 +1,4 @@
-# 4 Free IoT-Digital-Forensics-Courses for US-based Law Enforcement
+# 4 Free IoT-Digital-Forensics-Courses for US-based Law Enforcement - September and October 2025
 
 I originally created one Internet of Things (IoT) Digital Forensics Course (Course 1) which includes several digital forensic images of IoT devices. The goals of the course are provide an overview and some hands-on analysis of common IoT digital forensics data. I have taught or co-taught this course to federal agents, other law enforcment personnel and digital forensics students. 
 
@@ -11,7 +11,10 @@ R. Jean Costello
 
 Parts of the original Course 1 became outdated - so it was removed from this respository. However, I have since partnered with UTSA and Boston University and we have expanded and updated Course 1 and built out 3 other courses. If you are a US-based law enforcment personnel and are interested in taking these courses please contact read the details below.
 
-## Invitation to Participate in Free IoT Digital Forensics Training Courses for U.S. Based Law Enforcement Personnel ##
+## Invitation to Participate in Free IoT Digital Forensics Training Courses for U.S. Based Law Enforcement Personnel 
+## Cost: Free of charge (materials will be provided online)
+## Enrollment: Limited to 30 participants per course
+## Registration: To register, please contact Graduate Research Assistant, Erin Stephens, at ercobean@bu.edu
 
 Hello All U.S. based Law Enforcement Personnel:
 

@@ -1,4 +1,4 @@
-# IoT-Digital-Forensics-Course
+# 4 Free IoT-Digital-Forensics-Courses for US-based Law Enforcement
 
 I originally created one Internet of Things (IoT) Digital Forensics Course (Course 1) which includes several digital forensic images of IoT devices. The goals of the course are provide an overview and some hands-on analysis of common IoT digital forensics data. I have taught or co-taught this course to federal agents, other law enforcment personnel and digital forensics students. 
 

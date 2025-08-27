@@ -11,7 +11,7 @@ R. Jean Costello
 
 Parts of the original Course 1 became outdated - so it was removed from this respository. However, I have since partnered with UTSA and Boston University and we have expanded and updated Course 1 and built out 3 other courses. If you are a US-based law enforcment personnel and are interested in taking these courses please contact read the details below.
 
-##**Invitation to Participate in Free IoT Training Courses for U.S. Based Law Enforcement Personnel**##
+## Invitation to Participate in Free IoT Training Courses for U.S. Based Law Enforcement Personnel ##
 
 Hello All U.S. based Law Enforcement Personnel:
 

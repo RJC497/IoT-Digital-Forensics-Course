@@ -33,7 +33,7 @@ Participants may enroll in one, several, or all four IoT training courses and wi
 
 Course Schedule
 
-# All courses: 10:00 a.m. – 5:00 p.m. EST (Eastern Standard Time)
+### All courses: 10:00 a.m. – 5:00 p.m. EST (Eastern Standard Time)
 
 ### Course 1: IoT Overview & Basic Home & Wearable Devices
 

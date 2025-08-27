@@ -22,7 +22,7 @@ I hope this email finds you well. I am writing to invite the dedicated law enfor
 
 This program offers cutting edge content tailored to law enforcement needs. The training is offered by the Boston University Center for Cybercrime Investigation & Cybersecurity (CIC) in collaboration with The University of Texas at San Antonio (UTSA) through a sponsorship by the Bureau of Justice Assistance (BJA). The training is available online via Zoom and in-person at The University of Texas at San Antonio (UTSA) starting September 22nd, 2025 - with the final course completing on October 10th, 2025, with each course spanning two days.
 
-If you travel to San Antonio for in-person training, all travel, lodging and meal expenses are the responsibility of you, your agency or your department.
+#### If you travel to San Antonio for in-person training, all travel, lodging and meal expenses are the responsibility of you, your agency or your department.
 
 Regards, 
 
@@ -33,37 +33,37 @@ Participants may enroll in one, several, or all four IoT training courses and wi
 
 Course Schedule
 
-All courses: 10:00 a.m. – 5:00 p.m. EST (Eastern Standard Time)
+# All courses: 10:00 a.m. – 5:00 p.m. EST (Eastern Standard Time)
 
-Course 1: IoT Overview & Basic Home & Wearable Devices
+### Course 1: IoT Overview & Basic Home & Wearable Devices
 
-Dates: September 22 - 23, 2025
+### Dates: September 22 - 23, 2025
 
-Location: Online (via Zoom) or in person at The University of Texas at San Antonio
+#### Location: Online (via Zoom) or in person at The University of Texas at San Antonio
 
 Description: This foundational course introduces IoT technologies, legal frameworks, and forensic strategies for analyzing data from popular devices like Echo Alexa, Fitbit, and smartwatches. Real life case studies and challenges in IoT forensics will also be explored.
 
-Course 2: Additional Home & Wearable Devices & Cloud Extracts
+### Course 2: Additional Home & Wearable Devices & Cloud Extracts
 
-Dates: September 25 - 26, 2025
+### Dates: September 25 - 26, 2025
 
-Location: Online (via Zoom) or in person at The University of Texas at San Antonio
+#### Location: Online (via Zoom) or in person at The University of Texas at San Antonio
 
 Description: Building on the basics, this intermediate course delves into cloud extraction processes and forensic analysis of devices like Google Nest, Meta Smart Glasses, and Apple Watch.
 
-Course 3: IoT Devices with Video Display
+### Course 3: IoT Devices with Video Display
 
-Dates: October 6 - 7, 2025
+### Dates: October 6 - 7, 2025
 
-Location: Online (via Zoom) or in person at The University of Texas at San Antonio
+#### Location: Online (via Zoom) or in person at The University of Texas at San Antonio
 
 Description: This course focuses on visual data from video-enabled IoT devices, including Smart TVs, Meta Quest VR headsets, and internal security cameras, addressing challenges like encrypted and compressed video data.
 
-Course 4: IoT Devices Used as Robots
+### Course 4: IoT Devices Used as Robots
 
-Dates: October 9 - 10, 2025
+### Dates: October 9 - 10, 2025
 
-Location: Online (via Zoom) or in person at The University of Texas at San Antonio
+#### Location: Online (via Zoom) or in person at The University of Texas at San Antonio
 
 Description: Explore forensic analysis of robotic IoT devices, such as drones, smart vacuums, and law enforcement robots like Spot the Robot. The course covers unique challenges in data collection and the legal implications of robot-related cases.
 
